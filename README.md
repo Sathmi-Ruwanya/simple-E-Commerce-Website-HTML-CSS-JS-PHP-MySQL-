@@ -1,6 +1,4 @@
-Here’s a **professional README file** for your full-stack E-Commerce project without any code, including all the steps and explanations:
 
----
 
 # E-Commerce Website (HTML, CSS, JS, PHP, MySQL)
 
